@@ -1,0 +1,1 @@
+{"result":{"activated":true,"products":[{"productId":"com.yiruike.sodacn.subscribe.oneyear","startDate":1690945847000,"expireDate":3333333333333,"managed":false,"status":"ACTIVE"}]}}
